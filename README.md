@@ -17,8 +17,8 @@ Firstly, you have to install packages with helps command:
 npm install
 ```
 
-<div style="margin-bottom: 10pх;">
-    <img src="https://lh5.googleusercontent.com/XOLjxUN1F78_2xtVHWtlf4wawAvs-tJZSB_Y1GKVC18HcFd2A7sKMrqhaql7uHlKl_xHJWXOHNtpdTdiBCtT=w1853-h949-rw">
+<div>
+    <img src="https://lh3.googleusercontent.com/7msbTxo3eiL9VnNNDuHupkYz9ikypd-CEWDkSihGbeZtvIi0itlD69CPGh_P-HGGXVW7j2Vqo41t9M3PMgox=w1853-h621-rw" alt="">
 </div>
 
 <p>Modify the application as you wish.</p>
