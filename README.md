@@ -18,7 +18,7 @@ npm install
 ```
 
 <div>
-    <img src="https://lh3.googleusercontent.com/7msbTxo3eiL9VnNNDuHupkYz9ikypd-CEWDkSihGbeZtvIi0itlD69CPGh_P-HGGXVW7j2Vqo41t9M3PMgox=w1853-h621-rw" alt="">
+    <img src="https://user-images.githubusercontent.com/18128573/73062090-3bf9b280-3ea4-11ea-8603-70968ebc01c9.gif" alt="npm installation">
 </div>
 
 <p>Modify the application as you wish.</p>
